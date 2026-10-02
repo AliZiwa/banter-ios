@@ -5,7 +5,7 @@ games, scores and standings. The answers come from Apple's on-device language mo
 looks facts up through tools instead of guessing. Data is downloaded from ESPN's public
 endpoints and kept in a local SwiftData database so most questions never touch the network.
 
-Requires iOS 27 and a device with Apple Intelligence.
+Requires iOS 26 and a device with Apple Intelligence.
 
 ## Screenshots
 
